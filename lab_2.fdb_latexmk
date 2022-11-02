@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1667410327 "d:/tanki/University/PHYSICS/lab/lab2/lab_2.tex" "lab_2.pdf" "lab_2" 1667410330
+["pdflatex"] 1667410822 "d:/tanki/University/PHYSICS/lab/lab2/lab_2.tex" "lab_2.pdf" "lab_2" 1667410825
   "C:/Users/tanki/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1665833873 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/tanki/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1665685017 14064 ef1a1bb7b249304393193fe91540ecc3 ""
   "C:/Users/tanki/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1665933835 29472 ed204b629aad454922e234a93c21f933 ""
@@ -93,9 +93,9 @@
   "D:/Program Files/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "D:/Program Files/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1664388628 30426 b4bd1ea7df6c51902df8edf551809fb7 ""
   "D:/Program Files/MiKTeX/tex/latex/ragged2e/ragged2e.sty" 1639763652 9244 53da791cc5f775633a8a852b08533fe2 ""
-  "d:/tanki/University/PHYSICS/lab/lab2/lab_2.tex" 1667410327 14034 fd8d8d17337ec38390803df443886a00 ""
-  "lab_2.aux" 1667410329 160 680e50a377e06291488850bfadd65af7 "pdflatex"
-  "lab_2.tex" 1667410327 14034 fd8d8d17337ec38390803df443886a00 ""
+  "d:/tanki/University/PHYSICS/lab/lab2/lab_2.tex" 1667410820 14034 d9482972e20284721c7478679b125590 ""
+  "lab_2.aux" 1667410824 160 680e50a377e06291488850bfadd65af7 "pdflatex"
+  "lab_2.tex" 1667410820 14034 d9482972e20284721c7478679b125590 ""
   "ust.jpg" 1665833059 7957 04673acc9f3bfcfd68a47b7815b1ff2e ""
   (generated)
   "lab_2.aux"
